@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (E85/E86)"
+    start_year: 2002
+    end_year: 2008
+    description: "The original Z4 replaced the Z3 with more modern, angular 'flame surfacing' design language under the direction of Chris Bangle. Available as a roadster (E85) with a traditional soft top and later as a coupe (E86) with a fixed hardtop, it featured a more premium interior and improved dynamics compared to its predecessor. Engine options ranged from a 2.0L four-cylinder to a 3.2L six-cylinder in the M variants, which produced 338 HP. The Z4 offered a more sophisticated driving experience with enhanced technology and refinement while maintaining focus on driving enjoyment."
+
+  - name: "Second Generation (E89)"
+    start_year: 2009
+    end_year: 2016
+    description: "The second-generation Z4 represented a significant shift with the adoption of a two-piece retractable hardtop, eliminating the need for separate coupe and convertible models. The design became more elegant and less controversial, with smoother surfacing and more traditional proportions. Engine options included four and six-cylinder turbocharged units, with the top-spec sDrive35is producing 335 HP. This generation focused more on grand touring capabilities with improved comfort, refinement, and technology, somewhat shifting away from the raw sportiness of earlier Z models. No M variant was offered for this generation."
+
+  - name: "Third Generation (G29)"
+    start_year: 2018
+    end_year: null
+    description: "The current Z4 returned to a traditional soft top convertible design, developed alongside the Toyota Supra with which it shares a platform and many components. The exterior design features more aggressive, complex surfacing with a wider stance and shorter overhangs. Engine options include four and six-cylinder turbocharged units, with the M40i featuring a 3.0L inline-six producing 382 HP (North American spec). The interior offers BMW's latest technology including digital instrumentation and advanced driver assistance features. This generation attempts to recapture more of the sporting character of the original Z4 while maintaining modern refinement and technology. Unlike its predecessor, no coupe variant is offered, with that role effectively filled by the Toyota Supra."
