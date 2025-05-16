@@ -2,24 +2,9 @@ command_id: 7E0.012F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E803412F21
+- response: 7E803412F0E
   expected_values:
-    FLI: 12.94118
-- response: 7E803412F25
+    FLI: 5.4902
+- response: 7E803412FE9
   expected_values:
-    FLI: 14.5098
-- response: 7E803412F2A
-  expected_values:
-    FLI: 16.47059
-- response: 7E803412F2F
-  expected_values:
-    FLI: 18.43137
-- response: 7E803412F33
-  expected_values:
-    FLI: 20
-- response: 7E803412F38
-  expected_values:
-    FLI: 21.96078
-- response: 7E803412F3D
-  expected_values:
-    FLI: 23.92157
+    FLI: 91.37255
