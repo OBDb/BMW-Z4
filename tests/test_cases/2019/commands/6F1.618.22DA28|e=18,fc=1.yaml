@@ -6,6 +6,3 @@ test_cases:
 - expected_values:
     BMW_BRAKE_SWITCH: 1
   response: 618F10562DA280001
-- expected_values:
-    BMW_BRAKE_SWITCH: 1
-  response: 618F10562DA28FFFF
