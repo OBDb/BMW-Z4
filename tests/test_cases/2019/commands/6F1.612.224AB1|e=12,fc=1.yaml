@@ -1,11 +1,11 @@
 command_id: 6F1.612.224AB1|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_VSS2: 0
+    Z4_VSS2: 0
   response: 612F105624AB10000
 - expected_values:
-    BMW_VSS2: 46.07
+    Z4_VSS2: 46.07
   response: 612F105624AB111FF
 - expected_values:
-    BMW_VSS2: 117.25
+    Z4_VSS2: 117.25
   response: 612F105624AB12DCD
