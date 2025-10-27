@@ -1,30 +1,30 @@
 command_id: 6F1.629.22DBE4|e=29,fc=1
 test_cases:
 - expected_values:
-    Z4_FL_SPD: 0.0
-    Z4_FR_SPD: 0.0
-    Z4_RL_SPD: 0.0
-    Z4_RR_SPD: 0.0
+    Z4_FL_SPD: 0
+    Z4_FR_SPD: 0
+    Z4_RL_SPD: 0
+    Z4_RR_SPD: 0
   response: |-
     629F1101662DBE40000
     629F121000000000000
     629F122000000000000
     629F1230064646464FF
 - expected_values:
-    Z4_FL_SPD: 0.0
-    Z4_FR_SPD: 0.0
-    Z4_RL_SPD: 0.0
-    Z4_RR_SPD: 0.0
+    Z4_FL_SPD: 0
+    Z4_FR_SPD: 0
+    Z4_RL_SPD: 0
+    Z4_RR_SPD: 0
   response: |-
     629F1101662DBE40000
     629F121000000000000
     629F122000003030303
     629F1230064646464FF
 - expected_values:
-    Z4_FL_SPD: 0.0
-    Z4_FR_SPD: 0.0
-    Z4_RL_SPD: 0.0
-    Z4_RR_SPD: 0.0
+    Z4_FL_SPD: 0
+    Z4_FR_SPD: 0
+    Z4_RL_SPD: 0
+    Z4_RR_SPD: 0
   response: |-
     629F1101662DBE40000
     629F121000000000000
@@ -82,7 +82,7 @@ test_cases:
     629F1230164646464FF
 - expected_values:
     Z4_FL_SPD: 101.89
-    Z4_FR_SPD: 102.0
+    Z4_FR_SPD: 102
     Z4_RL_SPD: 99.67
     Z4_RR_SPD: 99.41
   response: |-

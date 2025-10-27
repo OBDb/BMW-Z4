@@ -10,5 +10,5 @@ test_cases:
     Z4_AAT: 30.5
   response: 660F10562D1128DA3
 - expected_values:
-    Z4_AAT: 31.0
+    Z4_AAT: 31
   response: 660F10562D1128E90

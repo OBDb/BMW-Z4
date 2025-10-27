@@ -4,7 +4,7 @@ test_cases:
     Z4_BRAKE_SWITCH: 0
   response: 618F10562DA280000
 - expected_values:
-    Z4_BRAKE_SWITCH: 1.0
+    Z4_BRAKE_SWITCH: 1
   response: 618F10562DA280001
 - expected_values:
     Z4_BRAKE_SWITCH: 1
