@@ -1,14 +1,14 @@
 command_id: 6F1.618.22DA23|e=18,fc=1
 test_cases:
 - expected_values:
-    Z4_ODO: 19248.0
-    Z4_ODO_LOWRES: 19248.0
+    Z4_ODO: 19248
+    Z4_ODO_LOWRES: 19248
   response: |-
     618F1100762DA230000
     618F1210966FFFFFFFF
 - expected_values:
-    Z4_ODO: 19344.0
-    Z4_ODO_LOWRES: 19344.0
+    Z4_ODO: 19344
+    Z4_ODO_LOWRES: 19344
   response: |-
     618F1100762DA230000
     618F1210972FFFFFFFF
