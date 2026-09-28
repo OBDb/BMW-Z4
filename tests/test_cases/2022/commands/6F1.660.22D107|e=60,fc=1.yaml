@@ -4,8 +4,8 @@ test_cases:
     Z4_VSS: 0
   response: 660F10562D1070000
 - expected_values:
-    Z4_VSS: 76.6
-  response: 660F10562D10702FE
+    Z4_VSS: 25.5
+  response: 660F10562D10700FF
 - expected_values:
-    Z4_VSS: 128.1
-  response: 660F10562D1070501
+    Z4_VSS: 128
+  response: 660F10562D1070500
