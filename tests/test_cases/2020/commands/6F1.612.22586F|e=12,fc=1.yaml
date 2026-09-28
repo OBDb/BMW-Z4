@@ -1,0 +1,20 @@
+command_id: 6F1.612.22586F|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_EOP: 9
+  response: 612F10562586F0916
+- expected_values:
+    Z4_EOP: 9
+  response: 612F10562586F095F
+- expected_values:
+    Z4_EOP: 9
+  response: 612F10562586F0990
+- expected_values:
+    Z4_EOP: 9
+  response: 612F10562586F09CD
+- expected_values:
+    Z4_EOP: 10
+  response: 612F10562586F0A2F
+- expected_values:
+    Z4_EOP: 10
+  response: 612F10562586F0A6C
