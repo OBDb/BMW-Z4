@@ -11,6 +11,11 @@ test_cases:
     618F1100762DA230000
     618F1210972FFFFFFFF
 - expected_values:
+    Z4_ODO_LOWRES: 24048
+  response: |-
+    618F1100762DA230000
+    618F1210BBEFFFFFFFF
+- expected_values:
     Z4_ODO_LOWRES: null
   response: |-
     618F1100762DA23FFFF

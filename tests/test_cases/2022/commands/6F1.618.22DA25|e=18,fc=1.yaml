@@ -4,5 +4,8 @@ test_cases:
     Z4_EOT: 0
   response: 618F10562DA250030
 - expected_values:
+    Z4_EOT: 111
+  response: 618F10562DA25009F
+- expected_values:
     Z4_EOT: null
   response: 618F10562DA25FFFF
