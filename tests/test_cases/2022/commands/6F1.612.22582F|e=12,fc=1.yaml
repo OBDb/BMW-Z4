@@ -1,0 +1,14 @@
+command_id: 6F1.612.22582F|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_CAT_T: 338.05
+  response: 612F10562582F17E0
+- expected_values:
+    Z4_CAT_T: 547.45
+  response: 612F10562582F200E
+- expected_values:
+    Z4_CAT_T: 573.55
+  response: 612F10562582F2113
+- expected_values:
+    Z4_CAT_T: 596.95
+  response: 612F10562582F21FD
