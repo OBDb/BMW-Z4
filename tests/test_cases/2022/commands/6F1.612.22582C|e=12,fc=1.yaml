@@ -1,14 +1,14 @@
 command_id: 6F1.612.22582C|e=12,fc=1
 test_cases:
 - expected_values:
-    Z4_LAMBDA_2: 0.90332
-  response: 612F10562582C0E74
+    Z4_LAMBDA_2: 0.88403
+  response: 612F10562582C0E25
+- expected_values:
+    Z4_LAMBDA_2: 0.93799
+  response: 612F10562582C0F02
 - expected_values:
     Z4_LAMBDA_2: 0.99902
   response: 612F10562582C0FFC
-- expected_values:
-    Z4_LAMBDA_2: 1.93823
-  response: 612F10562582C1F03
 - expected_values:
     Z4_LAMBDA_2: 12.76001
   response: 612F10562582CCC29

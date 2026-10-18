@@ -7,8 +7,8 @@ test_cases:
     Z4_CAT_T: 547.45
   response: 612F10562582F200E
 - expected_values:
-    Z4_CAT_T: 573.55
-  response: 612F10562582F2113
-- expected_values:
     Z4_CAT_T: 596.95
   response: 612F10562582F21FD
+- expected_values:
+    Z4_CAT_T: 629.65
+  response: 612F10562582F2344

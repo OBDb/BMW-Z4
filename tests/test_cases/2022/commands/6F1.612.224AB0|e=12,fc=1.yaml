@@ -10,5 +10,5 @@ test_cases:
     Z4_BOOST_P_SET: 101
   response: 612F105624AB06500
 - expected_values:
-    Z4_BOOST_P_SET: 126.44922
-  response: 612F105624AB07E73
+    Z4_BOOST_P_SET: 127.14844
+  response: 612F105624AB07F26

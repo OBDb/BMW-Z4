@@ -7,5 +7,5 @@ test_cases:
     Z4_CRANK_TQ: 25.3
   response: 612F1056258BA00FD
 - expected_values:
-    Z4_CRANK_TQ: 180.2
-  response: 612F1056258BA070A
+    Z4_CRANK_TQ: 211.8
+  response: 612F1056258BA0846

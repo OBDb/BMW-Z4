@@ -1,8 +1,8 @@
 command_id: 6F1.612.224A4D|e=12,fc=1
 test_cases:
 - expected_values:
-    Z4_IGN_TIMING_4: 6.5
-  response: 612F105624A4D0041
+    Z4_IGN_TIMING_4: 2.7
+  response: 612F105624A4D001B
 - expected_values:
     Z4_IGN_TIMING_4: 25.5
   response: 612F105624A4D00FF

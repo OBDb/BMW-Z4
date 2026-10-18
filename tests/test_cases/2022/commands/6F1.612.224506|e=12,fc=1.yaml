@@ -4,11 +4,11 @@ test_cases:
     Z4_OIL_TEMP: 3
   response: 612F1056245060336
 - expected_values:
-    Z4_OIL_TEMP: 37
-  response: 612F10562450625FC
+    Z4_OIL_TEMP: 76
+  response: 612F1056245064CFF
 - expected_values:
     Z4_OIL_TEMP: 77
   response: 612F1056245064D01
 - expected_values:
-    Z4_OIL_TEMP: 107
-  response: 612F1056245066B09
+    Z4_OIL_TEMP: 110
+  response: 612F1056245066E46

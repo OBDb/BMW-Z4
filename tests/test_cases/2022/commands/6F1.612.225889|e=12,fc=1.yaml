@@ -7,6 +7,9 @@ test_cases:
     Z4_LAMBDA_6F1: 0.99953
   response: 612F1056258890FFE
 - expected_values:
+    Z4_LAMBDA_6F1: 1.00246
+  response: 612F105625889100A
+- expected_values:
     Z4_LAMBDA_6F1: 15.22679
   response: 612F105625889F3A0
 - expected_values:

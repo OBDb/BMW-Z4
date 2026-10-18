@@ -4,23 +4,5 @@ test_cases:
     Z4_EOT_6F1: 32
   response: 612F1056244020040
 - expected_values:
-    Z4_EOT_6F1: 88
-  response: 612F10562440200B0
-- expected_values:
-    Z4_EOT_6F1: 97
-  response: 612F10562440200C2
-- expected_values:
-    Z4_EOT_6F1: 101
-  response: 612F10562440200CA
-- expected_values:
-    Z4_EOT_6F1: 102
-  response: 612F10562440200CC
-- expected_values:
-    Z4_EOT_6F1: 102.5
-  response: 612F10562440200CD
-- expected_values:
-    Z4_EOT_6F1: 103
-  response: 612F10562440200CE
-- expected_values:
-    Z4_EOT_6F1: 104
-  response: 612F10562440200D0
+    Z4_EOT_6F1: 105
+  response: 612F10562440200D2
