@@ -4,8 +4,8 @@ test_cases:
     Z4_EOT_DME: 357.1
   response: 612F1056244080DF3
 - expected_values:
-    Z4_EOT_DME: 366.1
-  response: 612F1056244080E4D
+    Z4_EOT_DME: 358.3
+  response: 612F1056244080DFF
 - expected_values:
-    Z4_EOT_DME: 383.2
-  response: 612F1056244080EF8
+    Z4_EOT_DME: 358.4
+  response: 612F1056244080E00

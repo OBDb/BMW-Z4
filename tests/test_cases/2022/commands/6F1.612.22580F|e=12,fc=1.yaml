@@ -4,5 +4,5 @@ test_cases:
     Z4_IAT_DME: 42.75
   response: 612F10462580F79
 - expected_values:
-    Z4_IAT_DME: 78.75
-  response: 612F10462580FA9
+    Z4_IAT_DME: 85.5
+  response: 612F10462580FB2

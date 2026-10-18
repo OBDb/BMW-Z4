@@ -7,8 +7,5 @@ test_cases:
     Z4_BARO: 99.98047
   response: 612F10562420163FB
 - expected_values:
-    Z4_BARO: 100.01953
-  response: 612F1056242016405
-- expected_values:
-    Z4_BARO: 101.01953
-  response: 612F1056242016505
+    Z4_BARO: 101.00781
+  response: 612F1056242016502
