@@ -4,11 +4,11 @@ test_cases:
     Z4_MAP: 88.55469
   response: 612F105624A2D2C47
 - expected_values:
+    Z4_MAP: 92.00781
+  response: 612F105624A2D2E01
+- expected_values:
     Z4_MAP: 93.99219
   response: 612F105624A2D2EFF
-- expected_values:
-    Z4_MAP: 100.07031
-  response: 612F105624A2D3209
 - expected_values:
     Z4_MAP: 123.69531
   response: 612F105624A2D3DD9

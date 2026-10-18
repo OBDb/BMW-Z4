@@ -10,5 +10,5 @@ test_cases:
     Z4_IGN_TIMING_1: 27
   response: 612F105624A49010E
 - expected_values:
-    Z4_IGN_TIMING_1: -12
-  response: 612F105624A49FF88
+    Z4_IGN_TIMING_1: -16.5
+  response: 612F105624A49FF5B

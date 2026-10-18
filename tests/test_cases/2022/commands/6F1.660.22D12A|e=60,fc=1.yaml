@@ -4,6 +4,12 @@ test_cases:
     Z4_CONS_KWH_100KM: 0
   response: |-
     660F1100D62D12A0000
+    660F12117FC0D213C1B
+    660F12213DCFFFFFFFF
+- expected_values:
+    Z4_CONS_KWH_100KM: 0
+  response: |-
+    660F1100D62D12A0000
     660F12118060D213C00
     660F122138EFFFFFFFF
 - expected_values:
@@ -18,12 +24,6 @@ test_cases:
     660F1100D62D12A0000
     660F12118060D213C0F
     660F122139AFFFFFFFF
-- expected_values:
-    Z4_CONS_KWH_100KM: 0
-  response: |-
-    660F1100D62D12A0000
-    660F12118060D213C11
-    660F12213D7FFFFFFFF
 - expected_values:
     Z4_CONS_KWH_100KM: 0
   response: |-

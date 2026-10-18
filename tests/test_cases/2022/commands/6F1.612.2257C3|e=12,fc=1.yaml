@@ -10,5 +10,5 @@ test_cases:
     Z4_OIL_TEMP_ALT: 76.9
   response: 612F1056257C30301
 - expected_values:
-    Z4_OIL_TEMP_ALT: 105.1
-  response: 612F1056257C3041B
+    Z4_OIL_TEMP_ALT: 104.3
+  response: 612F1056257C30413

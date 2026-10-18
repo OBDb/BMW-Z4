@@ -4,8 +4,8 @@ test_cases:
     Z4_IGN_TIMING_2: 2
   response: 612F105624A4A0014
 - expected_values:
-    Z4_IGN_TIMING_2: -15
-  response: 612F105624A4AFF6A
+    Z4_IGN_TIMING_2: -23
+  response: 612F105624A4AFF1A
 - expected_values:
-    Z4_IGN_TIMING_2: -4.8
-  response: 612F105624A4AFFD0
+    Z4_IGN_TIMING_2: -0.1
+  response: 612F105624A4AFFFF
