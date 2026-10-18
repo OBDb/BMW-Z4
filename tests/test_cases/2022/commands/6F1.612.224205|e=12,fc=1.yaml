@@ -4,11 +4,11 @@ test_cases:
     Z4_BOOST_P: 100.52344
   response: 612F1056242053243
 - expected_values:
-    Z4_BOOST_P: 101.98438
-  response: 612F10562420532FE
+    Z4_BOOST_P: 101.99219
+  response: 612F10562420532FF
 - expected_values:
     Z4_BOOST_P: 110
   response: 612F1056242053700
 - expected_values:
-    Z4_BOOST_P: 115.69531
-  response: 612F10562420539D9
+    Z4_BOOST_P: 131.13281
+  response: 612F1056242054191

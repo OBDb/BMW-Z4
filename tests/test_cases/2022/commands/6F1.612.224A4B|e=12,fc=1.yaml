@@ -4,5 +4,5 @@ test_cases:
     Z4_LOAD_2: 0
   response: 612F104624A4B00
 - expected_values:
-    Z4_LOAD_2: 40.78431
-  response: 612F104624A4B68
+    Z4_LOAD_2: 45.09804
+  response: 612F104624A4B73
