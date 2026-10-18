@@ -1,0 +1,17 @@
+command_id: 6F1.612.22558F|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_ENG_HOURS: 463
+  response: |-
+    612F1100762558F0000
+    612F121039EFFFFFFFF
+- expected_values:
+    Z4_ENG_HOURS: 463.5
+  response: |-
+    612F1100762558F0000
+    612F121039FFFFFFFFF
+- expected_values:
+    Z4_ENG_HOURS: 464
+  response: |-
+    612F1100762558F0000
+    612F12103A0FFFFFFFF

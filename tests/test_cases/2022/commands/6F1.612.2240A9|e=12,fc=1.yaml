@@ -1,0 +1,9 @@
+command_id: 6F1.612.2240A9|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_BAT_CAP: 80
+    Z4_ORIGINAL_BAT_CAP: 80
+  response: |-
+    612F1100C6240A95002
+    612F12150025ACE02BF
+    612F12200FFFFFFFFFF

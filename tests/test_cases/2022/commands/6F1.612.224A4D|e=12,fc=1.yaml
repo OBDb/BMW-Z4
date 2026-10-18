@@ -1,0 +1,14 @@
+command_id: 6F1.612.224A4D|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_IGN_TIMING_4: 6.5
+  response: 612F105624A4D0041
+- expected_values:
+    Z4_IGN_TIMING_4: 25.5
+  response: 612F105624A4D00FF
+- expected_values:
+    Z4_IGN_TIMING_4: 27.5
+  response: 612F105624A4D0113
+- expected_values:
+    Z4_IGN_TIMING_4: -15
+  response: 612F105624A4DFF6A

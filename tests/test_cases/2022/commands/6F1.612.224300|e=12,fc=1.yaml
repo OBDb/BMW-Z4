@@ -1,0 +1,8 @@
+command_id: 6F1.612.224300|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_ET_8: -37.5
+  response: 612F1056243000E84
+- expected_values:
+    Z4_ET_8: -37.5
+  response: 612F1056243000ED8

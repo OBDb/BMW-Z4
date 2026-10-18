@@ -1,0 +1,14 @@
+command_id: 6F1.612.224AB0|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_BOOST_P_SET: 99.91016
+  response: 612F105624AB063E9
+- expected_values:
+    Z4_BOOST_P_SET: 100.96094
+  response: 612F105624AB064F6
+- expected_values:
+    Z4_BOOST_P_SET: 101
+  response: 612F105624AB06500
+- expected_values:
+    Z4_BOOST_P_SET: 126.44922
+  response: 612F105624AB07E73

@@ -1,0 +1,11 @@
+command_id: 6F1.612.2257C3|e=12,fc=1
+test_cases:
+- expected_values:
+    Z4_OIL_TEMP_ALT: 57.6
+  response: 612F1056257C30240
+- expected_values:
+    Z4_OIL_TEMP_ALT: 76.4
+  response: 612F1056257C302FC
+- expected_values:
+    Z4_OIL_TEMP_ALT: 105.1
+  response: 612F1056257C3041B
