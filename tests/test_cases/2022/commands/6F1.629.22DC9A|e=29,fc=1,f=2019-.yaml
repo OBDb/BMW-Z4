@@ -6,7 +6,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 1.975
     Z4_TP_SET_RL: 2.125
-    Z4_TT_RL: 33
+    Z4_TT_RL: 73
   response: |-
     629F1101B62DC9A22F7
     629F121E718D207B749
@@ -19,7 +19,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 1.975
     Z4_TP_SET_RL: 2.125
-    Z4_TT_RL: 33
+    Z4_TT_RL: 73
   response: |-
     629F1101B62DC9A22F7
     629F121E718D207B749
@@ -32,7 +32,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 1.975
     Z4_TP_SET_RL: 2.175
-    Z4_TT_RL: 36
+    Z4_TT_RL: 76
   response: |-
     629F1101B62DC9A22F7
     629F121E718D207B74C
@@ -45,7 +45,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2
     Z4_TP_SET_RL: 2.15
-    Z4_TT_RL: 34
+    Z4_TT_RL: 74
   response: |-
     629F1101B62DC9A22F7
     629F121E718D207D04A
@@ -58,7 +58,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2
     Z4_TP_SET_RL: 2.15
-    Z4_TT_RL: 35
+    Z4_TT_RL: 75
   response: |-
     629F1101B62DC9A22F7
     629F121E718D207D04B
@@ -71,7 +71,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2
     Z4_TP_SET_RL: 2.175
-    Z4_TT_RL: 37
+    Z4_TT_RL: 77
   response: |-
     629F1101B62DC9A22F7
     629F121E718D207D04D
@@ -84,7 +84,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.025
     Z4_TP_SET_RL: 2.175
-    Z4_TT_RL: 36
+    Z4_TT_RL: 76
   response: |-
     629F1101B62DC9A22F7
     629F121E718D207E94C
@@ -97,7 +97,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.05
     Z4_TP_SET_RL: 2.2
-    Z4_TT_RL: 38
+    Z4_TT_RL: 78
   response: |-
     629F1101B62DC9A22F7
     629F121E718D208024E
@@ -110,7 +110,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.05
     Z4_TP_SET_RL: 2.2
-    Z4_TT_RL: 38
+    Z4_TT_RL: 78
   response: |-
     629F1101B62DC9A22F7
     629F121E718D208024E
@@ -123,7 +123,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.05
     Z4_TP_SET_RL: 2.2
-    Z4_TT_RL: 39
+    Z4_TT_RL: 79
   response: |-
     629F1101B62DC9A22F7
     629F121E718D208024F
@@ -136,7 +136,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.05
     Z4_TP_SET_RL: 2.2
-    Z4_TT_RL: 40
+    Z4_TT_RL: 80
   response: |-
     629F1101B62DC9A22F7
     629F121E718D2080250
@@ -149,7 +149,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.075
     Z4_TP_SET_RL: 2.2
-    Z4_TT_RL: 40
+    Z4_TT_RL: 80
   response: |-
     629F1101B62DC9A22F7
     629F121E718D2081B50
@@ -162,7 +162,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.075
     Z4_TP_SET_RL: 2.225
-    Z4_TT_RL: 41
+    Z4_TT_RL: 81
   response: |-
     629F1101B62DC9A22F7
     629F121E718D2081B51
@@ -175,7 +175,7 @@ test_cases:
     Z4_TPMS_RX_RL: 100
     Z4_TP_RL: 2.1
     Z4_TP_SET_RL: 2.2
-    Z4_TT_RL: 39
+    Z4_TT_RL: 79
   response: |-
     629F1101B62DC9A22F7
     629F121E718D208344F
