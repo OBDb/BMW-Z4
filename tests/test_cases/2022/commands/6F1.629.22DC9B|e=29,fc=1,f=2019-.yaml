@@ -6,7 +6,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.825
     Z4_TP_SET_RR: 2.125
-    Z4_TT_RR: 32
+    Z4_TT_RR: 72
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1072148
@@ -19,7 +19,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.825
     Z4_TP_SET_RR: 2.125
-    Z4_TT_RR: 32
+    Z4_TT_RR: 72
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1072148
@@ -32,7 +32,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.825
     Z4_TP_SET_RR: 2.125
-    Z4_TT_RR: 33
+    Z4_TT_RR: 73
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1072149
@@ -45,7 +45,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.875
     Z4_TP_SET_RR: 2.15
-    Z4_TT_RR: 35
+    Z4_TT_RR: 75
   response: |-
     629F1101B62DC9B22F7
     629F121E537D107534B
@@ -58,7 +58,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.875
     Z4_TP_SET_RR: 2.175
-    Z4_TT_RR: 36
+    Z4_TT_RR: 76
   response: |-
     629F1101B62DC9B22F7
     629F121E537D107534C
@@ -71,7 +71,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.9
     Z4_TP_SET_RR: 2.2
-    Z4_TT_RR: 39
+    Z4_TT_RR: 79
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1076C4F
@@ -84,7 +84,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.9
     Z4_TP_SET_RR: 2.2
-    Z4_TT_RR: 40
+    Z4_TT_RR: 80
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1076C50
@@ -97,7 +97,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.9
     Z4_TP_SET_RR: 2.25
-    Z4_TT_RR: 44
+    Z4_TT_RR: 84
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1076C54
@@ -110,7 +110,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.925
     Z4_TP_SET_RR: 2.2
-    Z4_TT_RR: 40
+    Z4_TT_RR: 80
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1078550
@@ -123,7 +123,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.925
     Z4_TP_SET_RR: 2.225
-    Z4_TT_RR: 42
+    Z4_TT_RR: 82
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1078552
@@ -136,7 +136,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.95
     Z4_TP_SET_RR: 2.225
-    Z4_TT_RR: 41
+    Z4_TT_RR: 81
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1079E51
@@ -149,7 +149,7 @@ test_cases:
     Z4_TPMS_RX_RR: 100
     Z4_TP_RR: 1.95
     Z4_TP_SET_RR: 2.225
-    Z4_TT_RR: 42
+    Z4_TT_RR: 82
   response: |-
     629F1101B62DC9B22F7
     629F121E537D1079E52
