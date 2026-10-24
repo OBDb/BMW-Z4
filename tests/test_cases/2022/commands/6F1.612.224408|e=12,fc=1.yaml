@@ -1,11 +1,11 @@
 command_id: 6F1.612.224408|e=12,fc=1
 test_cases:
 - expected_values:
-    Z4_EOT_DME: 357.1
+    Z4_EOT_DME: 83.95
   response: 612F1056244080DF3
 - expected_values:
-    Z4_EOT_DME: 358.3
+    Z4_EOT_DME: 85.15
   response: 612F1056244080DFF
 - expected_values:
-    Z4_EOT_DME: 358.4
+    Z4_EOT_DME: 85.25
   response: 612F1056244080E00
