@@ -27,6 +27,12 @@ test_cases:
 - expected_values:
     Z4_LAMBDA: 0
   response: |-
+    612F1101162400B043F
+    612F121044600000714
+    612F122147700080004
+- expected_values:
+    Z4_LAMBDA: 0
+  response: |-
     612F1101162400B076D
     612F1210770000006DF
     612F12217A000080002
