@@ -1,0 +1,8 @@
+command_id: 6F1.618.2107|e=18
+test_cases:
+- expected_values:
+    Z4_AVG_WHEELS_SPD: 0
+  response: 618F103610700
+- expected_values:
+    Z4_AVG_WHEELS_SPD: 90
+  response: 618F10361072D
