@@ -1,0 +1,11 @@
+command_id: 6F1.618.210B|e=18
+test_cases:
+- expected_values:
+    Z4_CLU_LOCK_UP: 0
+  response: 618F103610B00
+- expected_values:
+    Z4_CLU_LOCK_UP: 1
+  response: 618F103610B01
+- expected_values:
+    Z4_CLU_LOCK_UP: 2
+  response: 618F103610B02
