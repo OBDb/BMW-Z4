@@ -4,5 +4,5 @@ test_cases:
     Z4_OIL_LEVEL: 0
   response: 612F10462442C00
 - expected_values:
-    Z4_OIL_LEVEL: 90
-  response: 612F10462442C5A
+    Z4_OIL_LEVEL: 100
+  response: 612F10462442C64
