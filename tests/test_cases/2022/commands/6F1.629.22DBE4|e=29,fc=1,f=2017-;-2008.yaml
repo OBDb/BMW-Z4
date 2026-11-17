@@ -1,4 +1,4 @@
-command_id: 6F1.629.22DBE4|e=29,fc=1
+command_id: 6F1.629.22DBE4|e=29,fc=1,f=2017-;-2008
 test_cases:
 - expected_values:
     Z4_FL_SPD: 0

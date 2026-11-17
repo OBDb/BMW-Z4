@@ -1,4 +1,4 @@
-command_id: 6F1.640.221700|e=40,fc=1
+command_id: 6F1.640.221700|e=40,fc=1,f=2017-;-2008
 test_cases:
 - expected_values:
     Z4_ODO_2: 19254
